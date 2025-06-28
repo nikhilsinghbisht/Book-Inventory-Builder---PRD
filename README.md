@@ -148,7 +148,6 @@ The application will be available at:
 <p align="center"><i>Individual book detail view with editing capabilities</i></p>
 
 ### Settings Page
-![Settings](screenshots/settings.png)
 *API configuration and system settings*
 
 ## 🐞 Troubleshooting
